@@ -23,6 +23,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | Event | Location | Dates | Links | CFP end date
 | --- | --- | --- | --- | --- |
 | **ngEurope** | Paris | 01/02 - 02/02 | [CFP](https://checkout.eventlama.com/#/events/PHD3/cfp), [Website](https://ngeurope.org/) | ~~17/12/2017~~
+| **Mix-IT** | Lyon | 19/04 - 20/04 | [CFP](https://mix-it.cfp.io), [Website](https://mixitconf.org/en/) | ~~07/01/2018~~
 | **ReactEurope** | Paris | 17/05 - 18/05 | [CFP](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp), [Website](https://www.react-europe.org/) | ~~09/04/2018~~
 | **TakeOff Conference** | Lille | 07/06 - 08/06 | [CFP](https://www.takeoffconf.io/), [Website](https://www.takeoffconf.io/) | ~~01/04/2018~~
 | **Web2day** | Nantes | 13/06 - 15/06 | [CFP](https://web2day.cfp.io/), [Website](https://web2day.co/) | ~~17/03/2018~~
