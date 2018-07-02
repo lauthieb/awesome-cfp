@@ -33,6 +33,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | **DevOps REX** | Paris | 16/10 | [CFP](https://www.devopsrex.fr/proposer-un-talk/), [Website](http://www.devopsrex.fr/) | 31/07/2018
 | **Devfest Nantes** | Nantes | 18/10 - 19/10 | [CFP](https://cfp.gdgnantes.com/public/event/inzOQDR94h4bAaOVd7Db), [Website](https://devfest.gdgnantes.com/) | ~~30/06/2018~~
 | **BlendWebMix** | Lyon | 24/10 - 25/10 | [CFP](https://blendwebmix.workable.com/), [Website](https://www.blendwebmix.com/) | ~~30/04/2018~~
+| **ScalaIO** | Lyon | 29/10 - 31/10 | [CFP](https://cfp.scala.io/), [Website](https://scala.io/) | 03/09/2018
 | **Devfest Toulouse** | Toulouse | 08/11 | [CFP](https://devfest-toulouse.cfp.io), [Website](https://devfesttoulouse.fr/) | ~~01/07/2018~~
 | **BDX I/O** | Bordeaux | 09/11 | [CFP](https://cfp.bdx.io/), [Website](https://www.bdx.io/) | 05/08/2018
 | **dotJS** | Paris | 09/11 | [CFP](https://eventil.com/events/dotjs-2018), [Website](https://www.dotjs.io/) | ~~30/04/2018~~
