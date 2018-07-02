@@ -24,6 +24,8 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | --- | --- | --- | --- | --- |
 | **ngEurope** | Paris | 01/02 - 02/02 | [CFP](https://checkout.eventlama.com/#/events/PHD3/cfp), [Website](https://ngeurope.org/) | ~~17/12/2017~~
 | **ReactEurope** | Paris | 17/05 - 18/05 | [CFP](https://checkout.eventlama.com/#/events/reacteurope-2018/cfp), [Website](https://www.react-europe.org/) | ~~09/04/2018~~
+| **TakeOff Conference** | Lille | 07/06 - 08/06 | [CFP](https://www.takeoffconf.io/), [Website](https://www.takeoffconf.io/) | ~~01/04/2018~~
+
 | **Web2day** | Nantes | 13/06 - 15/06 | [CFP](https://web2day.cfp.io/), [Website](https://web2day.co/) | ~~17/03/2018~~
 | **Devfest Lille** | Lille | 21/06 | [CFP](https://devfestlille.cfp.io/), [Website](https://devfest.gdglille.org/) | ~~01/04/2018~~
 | **Sunny Tech** | Montpellier | 28/06 - 29/06 | [CFP](https://sunnytech.cfp.io/), [Website](https://sunny-tech.io/) | ~~31/03/2018~~
