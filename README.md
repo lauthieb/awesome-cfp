@@ -6,6 +6,7 @@ A collection of awesome Call For Papers to never miss to speak anymore 🗣
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
 | 2019/02/28 | [SunnyTech](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | 2019/06/27-28 |
+| 2019/03/17 | [Best of Web paris](https://checkout.eventlama.com/#/events/best-of-web-2019/cfp) | Paris, FR | 2019/06/07 |
 | 2019/03/31 | [Devfest Lille](https://conference-hall.io/organizer/event/6HVEO4aISYO7ctNdOIWx/edit/cfp) | Lille, FR | 2019/06/14 |
 
 ## Closed registrations
