@@ -7,7 +7,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
 | 2019/02/28 | [SunnyTech](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | 2019/06/27-28 |
 | 2019/03/17 | [Best of Web](https://checkout.eventlama.com/#/events/best-of-web-2019/cfp) | Paris, FR | 2019/06/07 |
-| 2019/03/31 | [Devfest Lille](https://conference-hall.io/organizer/event/6HVEO4aISYO7ctNdOIWx/edit/cfp) | Lille, FR | 2019/06/14 |
+| 2019/03/31 | [Devfest Lille](https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx) | Lille, FR | 2019/06/14 |
 
 ## Closed registrations
 
