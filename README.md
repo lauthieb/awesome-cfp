@@ -9,6 +9,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 | 2019/03/17 | [Best of Web](https://checkout.eventlama.com/#/events/best-of-web-2019/cfp) | Paris, FR | 2019/06/07 |
 | 2019/03/24 | [Paris Web](https://appel.paris-web.fr/) | Bois-Colombes/Paris, FR | 2019/10/10-12 |
 | 2019/03/31 | [Devfest Lille](https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx) | Lille, FR | 2019/06/14 |
+| 2019/04/15 | [Pas Sage en Seine](https://cfh.passageenseine.fr/) | Choisy le Roi, FR | 2019/06/27-30 |
 
 ## Closed registrations
 
