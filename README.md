@@ -5,8 +5,6 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
-| 2019/03/17 | [Best of Web](https://checkout.eventlama.com/#/events/best-of-web-2019/cfp) | Paris, FR | 2019/06/07 |
-| 2019/03/24 | [Paris Web](https://appel.paris-web.fr/) | Bois-Colombes/Paris, FR | 2019/10/10-12 |
 | 2019/03/31 | [Devfest Lille](https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx) | Lille, FR | 2019/06/14 |
 | 2019/04/15 | [Pas Sage en Seine](https://cfh.passageenseine.fr/) | Choisy le Roi, FR | 2019/06/27-30 |
 |            | [Jug Summer Camp]() | La Rochelle, FR | 2019/09/13 |
@@ -16,6 +14,8 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
+| ~~2019/03/17~~ | [Best of Web](https://checkout.eventlama.com/#/events/best-of-web-2019/cfp) | Paris, FR | 2019/06/07 |
+| ~~2019/03/24~~ | [Paris Web](https://appel.paris-web.fr/) | Bois-Colombes/Paris, FR | 2019/10/10-12 |
 | ~~2019/02/28~~ | [SunnyTech](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | ~~2019/06/27-28~~ |
 | ~~2019/01/31~~ | [RivieraDEV](https://rivieradev-db8f5.firebaseapp.com/public/event/MdKOzN5iWpoAWLEaTX8M) | Sophia Antipolis, FR | 2019/05/15-17 |
 | ~~2019/01/20~~ | [MiXiT](https://sessionize.com/mixit19/) | Lyon, FR | 2019/05/23-24 |
