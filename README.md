@@ -8,6 +8,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 | 2019/04/15 | [Pas Sage en Seine](https://cfh.passageenseine.fr/) | Choisy le Roi, FR | 2019/06/27-30 |
 | 2019/05/25 | [Devfest Toulouse](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) | Toulouse, FR | 2019/10/03 |
 | 2019/06/30 | [BDX I/O](https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8) | Bordeaux, FR | 2019/11/15 |
+| 2019/06/30 | [DevFest Nantes](https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z) | Nantes, FR | 2019/10/21-22 |
 
 ## Closed registrations
 
