@@ -6,6 +6,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
 | 2019/05/25 | [Devfest Toulouse](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) | Toulouse, FR | 2019/10/03 |
+| 2019/06/16 | [We Love Speed 2019](https://www.welovespeed.com/2019/cfp) | Lille, FR | 2019/09/20 |
 | 2019/06/30 | [BDX I/O](https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8) | Bordeaux, FR | 2019/11/15 |
 | 2019/06/30 | [DevFest Nantes](https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z) | Nantes, FR | 2019/10/21-22 |
 
