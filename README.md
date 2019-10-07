@@ -5,7 +5,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end    | CFP link                                                   | Location     | Event dates   |
 | ---------- | ---------------------------------------------------------- | ------------ | ------------- |
-| ? | [?](?) | ? | ? |
+| 2019/11/15 | [CodeMobile](http://www.codemobile.co.uk/call-for-speakers/) | London, UK | 2020/04/28-29 |
 
 ## Closed registrations
 
