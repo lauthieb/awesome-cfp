@@ -9,6 +9,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 | 2020/01/12 | [Devoxx France 2020](https://cfp.devoxx.fr/)                 | Paris, FR    | 2020/04/15-17 |
 | 2020/01/15 | [MiXiT 2020](https://www.papercall.io/mixit20)               | Lyon, FR     | 2020/04/29-30 |
 | 2020/01/20 | [BreizhCamp 2020](https://breizhcamp.cfp.io/)                | Rennes, FR   | 2020/03/25-27 |
+| 2020/02/15 | [RivieraDEV 2020](https://conference-hall.io/public/event/93yz1UrcsugPKYsoxJjL) | Sophia Antipolis, FR   | 2020/05/13-15 |
 | 2020/02/28 | [Sunny Tech](https://conference-hall.io/public/event/g1Yq1ZsPoPUy8R7C8SXc) | Montpellier, FR   | 2020/07/02-03 |
 
 
