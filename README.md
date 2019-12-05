@@ -3,20 +3,29 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 ## Opened registrations
 
-| CFP end    | CFP link                                                   | Location     | Event dates   |
-| ---------- | ---------------------------------------------------------- | ------------ | ------------- |
-| 2019/03/31 | [Devfest Lille](https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx) | Lille, FR | 2019/06/14 |
-| 2019/04/15 | [Pas Sage en Seine](https://cfh.passageenseine.fr/) | Choisy le Roi, FR | 2019/06/27-30 |
-| 2019/05/25 | [Devfest Toulouse](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) | Toulouse, FR | 2019/10/03 |
-|            | [Jug Summer Camp]() | La Rochelle, FR | 2019/09/13 |
+| CFP end    | CFP link                                                     | Location     | Event dates   |
+| ---------- | ------------------------------------------------------------ | ------------ | ------------- |
+| 2019/11/15 | [CodeMobile](http://www.codemobile.co.uk/call-for-speakers/) | London, UK   | 2020/04/28-29 |
+| 2020/01/12 | [Devoxx France 2020](https://cfp.devoxx.fr/)                 | Paris, FR    | 2020/04/15-17 |
+| 2020/01/15 | [MiXiT 2020](https://www.papercall.io/mixit20)               | Lyon, FR     | 2020/04/29-30 |
+| 2020/01/20 | [BreizhCamp 2020](https://breizhcamp.cfp.io/)                | Rennes, FR   | 2020/03/25-27 |
+| 2020/02/28 | [Sunny Tech](https://conference-hall.io/public/event/g1Yq1ZsPoPUy8R7C8SXc) | Montpellier, FR   | 2020/07/02-03 |
+
 
 ## Closed registrations
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
+| ~~2019/07/31~~ | [Devfest Strasbourg](https://conference-hall.io/public/event/aGZR5FxYkEfomcXcAiYF) | Strasbourg, FR | 2019/11/06 |
+| ~~2019/06/30~~ | [DevFest Nantes](https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z) | Nantes, FR | 2019/10/21-22 |
+| ~~2019/06/30~~ | [BDX I/O](https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8) | Bordeaux, FR | 2019/11/15 |
+| ~~2019/06/16~~ | [We Love Speed 2019](https://www.welovespeed.com/2019/cfp) | Lille, FR | 2019/09/20 |
+| ~~2019/05/25~~ | [Devfest Toulouse](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) | Toulouse, FR | 2019/10/03 |
+| ~~2019/04/15~~ | [Pas Sage en Seine](https://cfh.passageenseine.fr/) | Choisy le Roi, FR | 2019/06/27-30 |
+| ~~2019/03/31~~ | [Devfest Lille](https://conference-hall.io/public/event/6HVEO4aISYO7ctNdOIWx) | Lille, FR | 2019/06/14 |
 | ~~2019/03/17~~ | [Best of Web](https://checkout.eventlama.com/#/events/best-of-web-2019/cfp) | Paris, FR | 2019/06/07 |
 | ~~2019/03/24~~ | [Paris Web](https://appel.paris-web.fr/) | Bois-Colombes/Paris, FR | 2019/10/10-12 |
-| ~~2019/02/28~~ | [SunnyTech](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | ~~2019/06/27-28~~ |
+| ~~2019/02/28~~ | [SunnyTech](https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM) | Montpellier, FR | 2019/06/27-28 |
 | ~~2019/01/31~~ | [RivieraDEV](https://rivieradev-db8f5.firebaseapp.com/public/event/MdKOzN5iWpoAWLEaTX8M) | Sophia Antipolis, FR | 2019/05/15-17 |
 | ~~2019/01/20~~ | [MiXiT](https://sessionize.com/mixit19/) | Lyon, FR | 2019/05/23-24 |
 | ~~2019/01/14~~ | [Devoxx FR](https://cfp.devoxx.fr/) | Paris, FR | 2019/04/17-19 |
