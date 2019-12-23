@@ -5,8 +5,6 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end    | CFP link                                                     | Location     | Event dates   |
 | ---------- | ------------------------------------------------------------ | ------------ | ------------- |
-| 2019/11/15 | [CodeMobile](http://www.codemobile.co.uk/call-for-speakers/) | London, UK   | 2020/04/28-29 |
-| 2019/12/13 | [DevFest Paris 2020](https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF) | Issy-les-Moulineaux, FR   | 2020/02/14 |
 | 2020/01/12 | [Devoxx France 2020](https://cfp.devoxx.fr/)                 | Paris, FR    | 2020/04/15-17 |
 | 2020/01/15 | [MiXiT 2020](https://www.papercall.io/mixit20)               | Lyon, FR     | 2020/04/29-30 |
 | 2020/01/20 | [BreizhCamp 2020](https://breizhcamp.cfp.io/)                | Rennes, FR   | 2020/03/25-27 |
@@ -18,6 +16,8 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
+| ~~2019/12/13~~ | [DevFest Paris 2020](https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF) | Issy-les-Moulineaux, FR   | 2020/02/14 |
+| ~~2019/11/15~~ | [CodeMobile](http://www.codemobile.co.uk/call-for-speakers/) | London, UK   | 2020/04/28-29 |
 | ~~2019/07/31~~ | [Devfest Strasbourg](https://conference-hall.io/public/event/aGZR5FxYkEfomcXcAiYF) | Strasbourg, FR | 2019/11/06 |
 | ~~2019/06/30~~ | [DevFest Nantes](https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z) | Nantes, FR | 2019/10/21-22 |
 | ~~2019/06/30~~ | [BDX I/O](https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8) | Bordeaux, FR | 2019/11/15 |
