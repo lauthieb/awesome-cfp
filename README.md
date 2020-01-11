@@ -11,7 +11,7 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 | 2020/02/15 | [RivieraDEV 2020](https://conference-hall.io/public/event/93yz1UrcsugPKYsoxJjL) | Sophia Antipolis, FR   | 2020/05/13-15 |
 | 2020/02/28 | [Sunny Tech](https://conference-hall.io/public/event/g1Yq1ZsPoPUy8R7C8SXc) | Montpellier, FR   | 2020/07/02-03 |
 | 2020/02/29 | [Devfest Lille](https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ) | Lille, FR   | 2020/06/12 |
-| 2020/02/30 | [Git Commit Show](http://gitcommit.show) | Online | 2020/03/28 |
+| 2020/02/29 | [Git Commit Show](http://gitcommit.show) | Online | 2020/03/28 |
 
 ## Closed registrations
 
