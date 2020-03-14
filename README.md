@@ -12,10 +12,10 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
-| ~~2020/02/28~~ | [Sunny Tech](https://conference-hall.io/public/event/g1Yq1ZsPoPUy8R7C8SXc) | Montpellier, FR   | 2020/07/02-03 |
-| ~~2020/02/29~~ | [Git Commit Show](http://gitcommit.show) | Online | 2020/27-28 |
 | ~~2020/03/01~~ | [Voxxed Days Luxembourg](https://vdlux20.cfp.dev/) | Luxembourg, LU | 2020/06/18-19 |
 | ~~2020/03/01~~ | [dotGo](https://www.dotconferences.com/cfp) | Paris, FR | 2020/03/30 |
+| ~~2020/02/29~~ | [Git Commit Show](http://gitcommit.show) | Online | 2020/06/27-28 |
+| ~~2020/02/28~~ | [Sunny Tech](https://conference-hall.io/public/event/g1Yq1ZsPoPUy8R7C8SXc) | Montpellier, FR   | 2020/07/02-03 |
 | ~~2020/01/12~~ | [Devoxx France 2020](https://cfp.devoxx.fr/)                 | Paris, FR    | 2020/04/15-17 |
 | ~~2020/01/15~~ | [MiXiT 2020](https://www.papercall.io/mixit20)               | Lyon, FR     | 2020/04/29-30 |
 | ~~2020/01/20~~ | [BreizhCamp 2020](https://breizhcamp.cfp.io/)                | Rennes, FR   | 2020/03/25-27 |
