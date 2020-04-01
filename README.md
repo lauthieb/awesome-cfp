@@ -5,13 +5,14 @@ A collection of Call For Papers to never miss to speak anymore 🗣
 
 | CFP end    | CFP link                                                     | Location     | Event dates   |
 | ---------- | ------------------------------------------------------------ | ------------ | ------------- |
-| 2020/03/31 | [Agi'Lille](https://sessionize.com/agilille-2020) | Lille, FR   | 2020/06/25-26 |
-| 2020/03/31 | [Devfest Lille](https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ) | Lille, FR   | 2020/06/12 |
+| ? | ? | ? | ? |
 
 ## Closed registrations
 
 | CFP end        | CFP link                                                                      | Location        | Event dates   |
 | -------------- | ----------------------------------------------------------------------------- | --------------- | ------------- |
+| ~~2020/03/31~~ | [Agi'Lille](https://sessionize.com/agilille-2020) | Lille, FR   | 2020/06/25-26 |
+| ~~2020/03/31~~ | [Devfest Lille](https://conference-hall.io/public/event/4o1awYXIRayhu3vmOmiQ) | Lille, FR   | 2020/06/12 |
 | ~~2020/03/01~~ | [Voxxed Days Luxembourg](https://vdlux20.cfp.dev/) | Luxembourg, LU | 2020/06/18-19 |
 | ~~2020/03/01~~ | [dotGo](https://www.dotconferences.com/cfp) | Paris, FR | 2020/03/30 |
 | ~~2020/02/29~~ | [Git Commit Show](http://gitcommit.show) | Online | 2020/06/27-28 |
